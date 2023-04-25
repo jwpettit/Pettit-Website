@@ -1,5 +1,6 @@
 {
   "name": "pettit-website",
+  "homepage": "https://pettit.lu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
